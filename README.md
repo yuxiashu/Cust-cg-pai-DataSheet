@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 
 ### Train
     ```
-    python3 train.py --checkpoints /path/to/save/checkpoints --train_data_dir /path/to/your/train/images/dir --train_data_gt /path/to/your/train/annotation/file(txt or json) --test_data_dir /path/to/your/test/images/dir --test_data_gt /path/to/your/train/annotation/file(txt or json) -g "0"
+    python3 mnist_backward.py 
     ```  
 训练样例：
  
