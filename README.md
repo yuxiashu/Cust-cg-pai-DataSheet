@@ -1,5 +1,6 @@
 # Cust-cg-pai-DataSheet 理工计算机科研平台使用手册
 0.前置基础——
+
 	0.1linux操作系统使用，操作系统，配置，文件读写
 	0.2集成开发环境jupyter notebook 使用方法，熟练在自己电脑本机数量运行，并可以调试python 程序。
 	0.3python 语言基本语法，与基本数据结构，程序调用流程，工程模块化封装
@@ -20,7 +21,10 @@
 3. 查看当前环境与GPU是否可以使用(熟悉linux命令与命令解释语句)
  
 ![img22](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t2.png)
+
 4. 熟悉云端Jupyter Notebook开发环境
+
+
 5.根据自己项目工程需要，定制工程文件夹
 ![img3](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t3.png)
  
@@ -38,9 +42,7 @@ pip3 install -r requirements.txt
     ```
     python3 mnist_backward.py 
     ```  
-训练样例：
  
-
 ### Demo
 - Download the pretrained model from ()
 - Run
@@ -51,6 +53,8 @@ python3 mnist_app.py
 input the number of test pictures: 9  ######为测试9张图片，图片存放于fc3/pic  
 
 the path of test picture:pic/0.png   ######测试图片路径/path/to/your/test/images/dir
+
+
 标准化输出：
 the prediction number is : []
 
