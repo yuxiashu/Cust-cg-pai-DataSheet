@@ -8,7 +8,7 @@
 	0.6docker 虚拟隔离环境——资源容器化
 1.申请资源
  
- ![](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t0.png)
+ ![img0](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t0.png)
 
 
 
