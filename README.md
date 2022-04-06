@@ -14,15 +14,15 @@
 
 2.资源分配成功（若分配不成功，返回1重新申请）
  
-![](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t1.png)
+![img1](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t1.png)
 
 
 3. 查看当前环境与GPU是否可以使用(熟悉linux命令与命令解释语句)
  
-![](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t2.png)
+![img22](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t2.png)
 4. 熟悉云端Jupyter Notebook开发环境
 5.根据自己项目工程需要，定制工程文件夹
-![](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t3.png)
+![img3](https://raw.githubusercontent.com/yuxiashu/Cust-cg-pai-DataSheet/main/img/t3.png)
  
 
 
