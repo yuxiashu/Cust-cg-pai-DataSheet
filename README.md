@@ -50,13 +50,13 @@ pip3 install -r requirements.txt
 python3 mnist_app.py 
 ```  
 运行时标准化输入：
-input the number of test pictures: 9  ######为测试9张图片，图片存放于fc3/pic  
+input the number of test pictures: 9  ######为测试9张图片，图片存放于test_demo/pic  
 
 the path of test picture:pic/0.png   ######测试图片路径/path/to/your/test/images/dir
 
 
 标准化输出：
-the prediction number is : []
+the prediction number is : [https://pan.baidu.com/s/1kEehdXqZcEVTBSZxUY6-jg?pwd=80fp]
 
 
 
