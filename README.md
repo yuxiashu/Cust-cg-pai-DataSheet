@@ -44,7 +44,7 @@ pip3 install -r requirements.txt
     ```  
  
 ### Demo
-- Download the pretrained model from ()
+- Download the pretrained model from [BaiduYun](https://pan.baidu.com/s/1kEehdXqZcEVTBSZxUY6-jg?pwd=80fp)
 - Run
 ```
 python3 mnist_app.py 
@@ -56,7 +56,7 @@ the path of test picture:pic/0.png   ######测试图片路径/path/to/your/test/
 
 
 标准化输出：
-the prediction number is : [https://pan.baidu.com/s/1kEehdXqZcEVTBSZxUY6-jg?pwd=80fp]
+the prediction number is : []
 
 
 
